@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"86a073eba415410f66816ab643e75551","lockfileHash":"b1846ce9859b4b1417025897ef425c82","guessedImports":["cli-color","quick.db","quickmongo","moment","@napi-rs/canvas","discord.js","discord-html-transcripts","axios","express","dotenv"],"guessedImportsHash":"a773782883114d6e999d297abf9f0af5"}}}
