@@ -1,7 +1,7 @@
 module.exports = {
   source: {
     website: {
-      support: "https://discord.gg/P4XxUmebDa",
+      support: "https://discord.gg/codersplanet",
       domain: ""//you need get your repl.co link in replit with keepAlive code, then replace the link
     },
     anti_crash: true,//turn on or off the antiCrash file
@@ -17,7 +17,7 @@ module.exports = {
     token: process.env.token,
     prefix: process.env.prefix,
     invite: `https://discord.com/oauth2/authorize?client_id=${process.env.clientId}&scope=bot+applications.commands&permissions=8`,
-    server_support: "https://discord.gg/P4XxUmebDa",
+    server_support: "https://discord.gg/codersplanet",
     server_id: "1054814674979409940",
     server_channel_report: "1054814677806370927",
     server_channel_status: "1054814677806370928",

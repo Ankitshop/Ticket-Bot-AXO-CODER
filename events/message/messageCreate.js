@@ -21,7 +21,7 @@ module.exports = async (client, message) => {
       name: "Ticker Boy",
       gender: "Male",
       language2: "auto",
-      developer_name: "Mr.SIN RE#1528",
+      developer_name: "Axocoder",
       message: message.content.toLocaleString()
     };
 

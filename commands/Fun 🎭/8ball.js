@@ -52,7 +52,7 @@ module.exports = {
       let answer = eightball[Math.floor(Math.random() * Math.floor(eightball.length))];
       await message.reply({
         content: `${answer}`
-        //embeds: [new EmbedBuilder().setColor("Blue").setFooter({ text: `Requested  By ${message.author.username} • Created By Mr.SIN RE#1528 `, iconURL: message.author.displayAvatarURL({ dynamic: true }) }).setTitle(`🎱| 8ball`).setDescription(`**Question: ${question}\n\nAnswer: ${answer}**`)]
+        //embeds: [new EmbedBuilder().setColor("Blue").setFooter({ text: `Requested  By ${message.author.username} • Created By Axocoder `, iconURL: message.author.displayAvatarURL({ dynamic: true }) }).setTitle(`🎱| 8ball`).setDescription(`**Question: ${question}\n\nAnswer: ${answer}**`)]
       });
     } catch (e) {
       console.log(e)
